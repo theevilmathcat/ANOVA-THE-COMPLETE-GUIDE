@@ -35,7 +35,7 @@ If the groups are truly different, then:
 ---
 
 ## Types of ANOVA (UNIVARIATE)
-
+# types-of-anova
 ### Main Classification
 
 **1. By Number of Factors:**
@@ -721,4 +721,5 @@ You can also do a **Main Effects Plot**. It will plot the average mean, and if y
   We want low bias, low variance, but in practice, this doesn't happen.
   - In simple models → high bias, low variance
   - In complex models → low bias, high variance
+
 
