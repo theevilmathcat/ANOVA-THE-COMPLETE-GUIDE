@@ -731,10 +731,10 @@ You can also do a **Main Effects Plot**. It will plot the average mean, and if y
 | 0.05 – 0.10 | Mention it, but usually keep linear |
 | < 0.05 | There is curvature or missing variable → consider improving the model |
 
-- Fits and Diagnostics for Unusual Oservations(you see this table in ANCOVA)
-- - flags observations where the actual deadlift deviates "unusually" from the model's prediction (based on standardized residuals, |Std Resid| > ~2). "R" means large residual (outlier).
+
 
 ### Fits and Diagnostics for Unusual Observations
+- (you see this table in ANCOVA). flags observations where the actual deadlift deviates "unusually" from the model's prediction (based on standardized residuals, |Std Resid| > ~2). "R" means large residual (outlier).
 
 | Obs | Deadlift_kg | Fit | Resid | Std Resid |
 |-----|-------------|-----|--------|-----------|
@@ -745,3 +745,4 @@ You can also do a **Main Effects Plot**. It will plot the average mean, and if y
 - Obs 26 (row 26 in data: Experienced, 195 kg deadlift at 78 kg body): Under-performed by 7.43 kg (model predicted 202.43). Std Resid = -3.68 → Big underachiever (maybe form issue or off day).
 - Obs 41 (row 41: Experienced? Wait—data row 41 is 192 at 76 kg Experienced): Under by ~5 kg (Std Resid -2.54). Another low performer.
 - Obs 48 (row 48: 212 at 80 kg Experienced): Over-performed by 4.16 kg (+2.03 Std Resid). Beast mode—stronger than expected
+
