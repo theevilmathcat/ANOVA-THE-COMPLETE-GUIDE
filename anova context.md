@@ -55,6 +55,16 @@ These tests:
 
 ---
 
-## Visualization
-- After identifying significant differences, create an **interaction plot** to visually present the results and highlight where the differences occur.
+## Conclusion and Visualization
 
+After identifying significant differences, create an **interaction plot** to visually present the results and highlight where the differences occur.
+
+To conclude the test, return to the initial hypotheses:
+
+**H0 (Null Hypothesis):** All group means are equal (there is no difference).
+
+**H1 (Alternative Hypothesis):** At least one group mean differs from the others.
+
+### Final Decision Rule
+- If the **p-value < significance level (e.g., 0.05)** → **Reject H0** and conclude that **there is a significant difference between at least one pair of group means**.
+- If the **p-value ≥ significance level** → **Fail to reject H0** and conclude that **there is no evidence of a difference between group means at the 5% significance level**.
