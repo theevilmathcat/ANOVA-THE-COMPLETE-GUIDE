@@ -1,6 +1,12 @@
 Complete ANOVA Guide for Minitab - Weightlifting Theme
 
 A comprehensive, practical guide to Analysis of Variance (ANOVA) using Minitab, specifically tailored for sports science, exercise physiology, and weightlifting research applications.
+It has 2 files: 
+
+a) the context.md file with a simplified overview of what to do 
+
+b) guide.md - which has a comprehensive step-by-step. 
+
 📋 Overview
 
 This guide provides a complete reference for understanding, selecting, and executing various ANOVA designs in Minitab, with weightlifting-themed examples throughout. It covers everything from basic one-way ANOVA to complex mixed designs and assumption corrections.
@@ -179,6 +185,6 @@ The guide is organized as a single comprehensive Markdown document with:
 
 📝 Last Revision
 
-11/12/2025 - Diogo Marques
-
+12/12/2025 - Diogo Marques
+* added context.md where it shows the simplified framework for the anova test.
 Note: This README summarizes the complete ANOVA guide. For detailed examples, procedures, and explanations, refer to the full guide document.
