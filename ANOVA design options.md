@@ -8,6 +8,8 @@ F = Variance Between Groups / Variance Within Groups
 When group means are truly different, the between-group variance will be substantially larger than the within-group variance, producing a large F-statistic. When there are no real differences between groups, both variance components reflect only random variation, and the F-statistic will be close to 1.
 This is the concept of anova: partitioning total variance into systematic (between-group) and random (within-group) components, to determine whether group differences are meaningful or just noise.
 
+Fisher initially tried to publish his ANOVA work in the journal Biometrika, but the editor Karl Pearson (who didn't get along with Fisher) refused to publish it. So Fisher published it in the Journal of Agricultural Science instead. Cronyism/favoritism at its finest.
+
 ---
 
 ## Design Dimensions for Univariate ANOVA
